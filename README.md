@@ -6,7 +6,7 @@
 
 ---
 
-- 🎓 I'm a student at Omnia and Metropolia Open UAS in Helsinki
+- 🎓 I'm a student at Omnia college and Metropolia Open UAS in Helsinki
 - 🌱 I’m currently learning **React Framework**
 - 👯 Actively seeking an internship opportunity in the field of Web Development.
 - ☕ I’m on [Codewars](https://www.codewars.com/users/rsschool_b07cbe111f53b019)
