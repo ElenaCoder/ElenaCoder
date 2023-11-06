@@ -2,7 +2,7 @@
 
 ---
 
-<p>Welcome to my profile!  I'm a web developer based in Helsinki, Finland. Currently on a journey to master the **React Framework**. I'm eager to connect, learn, and contribute to exciting projects. Thanks for dropping by—let's connect and code together!</p>
+<p>Welcome to my profile!  I'm a web developer based in Helsinki, Finland. Currently on a journey to master the React Framework. I'm eager to connect, learn, and contribute to exciting projects. Thanks for dropping by—let's connect and code together!</p>
 
 ---
 
