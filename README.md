@@ -2,13 +2,13 @@
 
 ---
 
-<p>Welcome to my profile!  I'm a web developer based in Helsinki, Finland. Currently on a journey to master the React Framework. I'm eager to connect, learn, and contribute to exciting projects. Thanks for dropping by—let's connect and code together!</p>
+<p>Welcome to my profile!  I'm a web developer based in Helsinki, Finland. Currently on a journey to master the React library I'm eager to connect, learn, and contribute to exciting projects. Thanks for dropping by—let's connect and code together!</p>
 
 ---
 
-- 🎓 I'm a student at Omnia college and Metropolia Open UAS in Helsinki
-- 🌱 I’m currently learning **React Framework**
-- 👯 Actively seeking an internship opportunity in the field of Web Development.
+- 🎓 I'm a student at Metropolia Open UAS in Helsinki
+- 🌱 I’m currently learning **React library**
+- 👯 Actively seeking an opportunity in the field of Web Development.
 - ☕ I’m on [Codewars](https://www.codewars.com/users/rsschool_b07cbe111f53b019)
 - 📘 Discover more about my experiences on my [LinkedIn](https://www.linkedin.com/in/elena-golovanova/)
 - 📚 View my [CV](https://elenacoder.github.io/cv/)
