@@ -7,7 +7,7 @@
 ---
 
 - 🎓 I'm a student at Metropolia Open UAS in Helsinki
-- 🌱 I’m currently learning **React library**
+- 🌱 I'm currently working on mastering the **Hono backend framework**.
 - 👯 Actively seeking an opportunity in the field of Web Development.
 - ☕ I’m on [Codewars](https://www.codewars.com/users/rsschool_b07cbe111f53b019)
 - 📘 Discover more about my experiences on my [LinkedIn](https://www.linkedin.com/in/elena-golovanova/)
