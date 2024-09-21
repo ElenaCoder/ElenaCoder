@@ -11,7 +11,6 @@
 - 👯 Actively seeking an opportunity in the field of Web Development.
 - ☕ I’m on [Codewars](https://www.codewars.com/users/rsschool_b07cbe111f53b019)
 - 📘 Discover more about my experiences on my [LinkedIn](https://www.linkedin.com/in/elena-golovanova/)
-- 📚 View my [CV](https://elenacoder.github.io/cv/)
 - 👨‍💻 Some of my projects are available at [personal-portfolio](https://elenacoder.github.io/personal-portfolio-webpage/)
 
 ---
