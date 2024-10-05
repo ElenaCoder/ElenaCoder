@@ -6,7 +6,7 @@
 
 ---
 
-- 🎓 I'm a student at Metropolia University of Applied Sciences, studying **Software Engineering**.
+- 🎓 I'm a 4th-year student at Metropolia University of Applied Sciences, studying **Software Engineering**.
 - 🌱 I'm currently working on mastering the **Svelte frontend framework** and **Hono backend framework**.
 - 👯 Actively seeking an opportunity in the field of Web Development.
 - ☕ I’m on [Codewars](https://www.codewars.com/users/rsschool_b07cbe111f53b019)
